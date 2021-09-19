@@ -1,4 +1,4 @@
-### Hi there 👋
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qg607zP1V0I/0.jpg)](https://www.youtube.com/watch?v=qg607zP1V0I)
 
 <!--
 **gezielcarvalho/gezielcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
