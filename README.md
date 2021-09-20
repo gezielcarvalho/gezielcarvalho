@@ -1,4 +1,6 @@
-Hello! I'm Geziel Carvalho!
+### Hi there 👋
+
+I'm Geziel Carvalho!
 
 I'm a full stack developer and an airspace control specialist.
 
@@ -14,8 +16,6 @@ If you wanna know more about my dev skills or air space control, check my social
 - 🌱 I’m currently improving my Java and React skills
 - 💬 Ask me about Php and Vanilla JS
 - 📫 How to reach me: social media @gezielcarvalho
-
-Thank you!
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qg607zP1V0I/0.jpg)](https://www.youtube.com/watch?v=qg607zP1V0I)
 
