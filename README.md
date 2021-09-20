@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Geziel Carvalho!
+### Hi there!! I'm Geziel Carvalho! 👋
 
 I'm a full stack developer and an airspace control specialist.
 
