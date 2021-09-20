@@ -12,12 +12,10 @@ At the frontend I make use since vanilla javascript to ReactJS. We can of course
 
 If you wanna know more about my dev skills or air space control, check my social media.
 
-- 🔭 I’m currently working on my undergraduate final paper. It's im my repository Egrho!
+- 🔭 I’m currently working on my undergraduate final paper.
 - 🌱 I’m currently improving my Java and React skills
 - 💬 Ask me about Php and Vanilla JS
-- 📫 How to reach me: social media @gezielcarvalho
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qg607zP1V0I/0.jpg)](https://www.youtube.com/watch?v=qg607zP1V0I)
+- 📫 How to reach me? Social media: @gezielcarvalho
 
 <!--
 **gezielcarvalho/gezielcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
