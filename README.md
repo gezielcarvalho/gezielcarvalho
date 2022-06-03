@@ -13,7 +13,7 @@ If you wanna know more about my skills, check my webisite and/or social media.
 - 🔭 I’m currently working on my undergraduate final paper.
 - 🌱 I’m currently learning BlockChain
 - 📫 How to reach me? Social media: @gezielcarvalho
-- ⚡
+- ⚡ Check my website at http://gezielcarvalho.info
 
 <!--
 **gezielcarvalho/gezielcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
