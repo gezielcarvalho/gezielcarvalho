@@ -2,7 +2,7 @@
 
 I'm a full stack developer and a project manager.
 
-As a developer, I code with with Laravel/PHP, ReactJS and React Native.
+As a developer, I code with with Laravel/PHP, NestJS and React Native.
 
 I can deal with structured databases, such as postgres and MySQL, or non structured databases like MongoDB, Firebase and others.
 
