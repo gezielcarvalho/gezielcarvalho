@@ -1,4 +1,4 @@
-### Hi there!! I'm Geziel Carvalho! 👋
+### Hello there!! I'm Geziel Carvalho! 👋
 
 I'm a full stack developer.
 
