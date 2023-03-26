@@ -8,7 +8,7 @@ I can deal with structured databases, such as PostgreSQL and MySQL, or non struc
 
 If you wanna know more about my skills, check my webisite and/or social media.
 
-- 🔭 I’m currently enrolled in a Graduate Cerification on Mobile Development Solutions at [Conestoga College](https://www.conestogac.on.ca/).
+- 🔭 I’m currently enrolled in a Graduate Certification on Mobile Development Solutions at [Conestoga College](https://www.conestogac.on.ca/).
 - 🌱 I’m currently learning **Swift UI** and **C#**
 - 📫 How to reach me? Social media: @gezielcarvalho
 - ⚡ Check my website at http://gezielcarvalho.info
