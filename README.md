@@ -1,28 +1,9 @@
 ### Hello there!! I'm Geziel Carvalho! 👋
 
-I'm a full stack developer.
+I'm a Full Stack Developer with expertise in Laravel/PHP, C#/.NET, VueJS, and React Native. I have experience working with structured databases such as PostgreSQL and MySQL, as well as non-structured databases like MongoDB and Firebase.
 
-As a developer, I code with with **Laravel/PHP**, **C#/.NET**, **VueJS** and **React Native**.
+🔭 I’m currently enrolled in a Graduate Certification on Mobile Development Solutions at Conestoga College.
+📫 How to reach me? You can find me on social media: @gezielcarvalho.
+⚡ Check my website at gezielcarvalho.info to learn more about my skills and projects.
 
-I can deal with structured databases, such as PostgreSQL and MySQL, or non structured databases like MongoDB, Firebase and others.
-
-If you wanna know more about my skills, check my webisite and/or social media.
-
-- 🔭 I’m currently enrolled in a Graduate Certification on Mobile Development Solutions at [Conestoga College](https://www.conestogac.on.ca/).
-- 📫 How to reach me? Social media: @gezielcarvalho
-- ⚡ Check my website at http://gezielcarvalho.info
-
-<!--
-**gezielcarvalho/gezielcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and collaborate to create innovative solutions!
