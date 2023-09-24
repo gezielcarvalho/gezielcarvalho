@@ -1,7 +1,7 @@
 ### Hello there!! I'm Geziel Carvalho! 👋
 
 I'm a Senior Software Engineer with 10 years of experience on FullStack Development, and expertise in 
-* .Net Core,
+* DotNet Core,
 * Java Spring,
 * Laravel/PHP,
 * Angular,
