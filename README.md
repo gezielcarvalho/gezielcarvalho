@@ -8,7 +8,7 @@ I'm a Senior Software Engineer with more than 10 years of experience on FullStac
 * ReactJS,
 * React Native.
 
-I am Fluent in English, with elementary proficiency in French and native speaker of Portuguese, effectively communicating with diverse stakeholders. With background in Business Management, I can excels in problem-solving, project management, software development and quality assurance. With a proven track record in developing innovative solutions, I am able to tackle new challenges and drive impactful results.
+I am Fluent in English, with intermediate proficiency in French and native speaker of Portuguese, effectively communicating with diverse stakeholders. With background in Business Management, I can excels in problem-solving, project management, software development and quality assurance. With a proven track record in developing innovative solutions, I am able to tackle new challenges and drive impactful results.
 
 - 🔭 I’m currently enrolled in a Graduate Certification on Mobile Development Solutions at Conestoga College.
 - 📫 How to reach me? You can find me on social media: @gezielcarvalho.
