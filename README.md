@@ -6,7 +6,7 @@ Here's my stack:
 
 | Backend       | Database        | Frontend     | Devops  |
 | ------------- | --------------- | ------------ |---------|
-| .NET          | SQL Server      | Angular      | CI      |
+| .NET/C#       | SQL Server      | Angular      | CI      |
 | Laravel/PHP   | MySQL/PostgreSQL| VueJS        | CD      |
 | Node/NestJS   | MongoDB         | ReactJS      | Docker  |
 
