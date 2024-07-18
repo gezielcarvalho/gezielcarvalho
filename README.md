@@ -19,13 +19,6 @@ I am fluent in **English** , with intermediate proficiency in **French** and nat
 
 Let's connect and collaborate to create innovative solutions!
 
-<p>
-    <a href="https://www.linkedin.com/in/gezielcarvalho/">
-        <img src="./images/linkedin_icon_256.png" alt="AWS" width="32" height="32">
-        /gezielcarvalho
-    </a>
-</p>
-
 ---
 ---
 Keywords: #SoftwareEngineer #FullStack #CSharp #Angular #Jenkins #AWS #Docker #Android #iOS #ReactNative #Laravel #PHP #NodeJS #NestJS #MongoDB #PostgreSQL #MySQL #SQLServer #VueJS #ReactJS #Typescript #Javascript #HTML #CSS #SASS #Bootstrap #MaterialDesign #Agile #Scrum #DevOps #CI/CD #TDD #Swagger #Linux
