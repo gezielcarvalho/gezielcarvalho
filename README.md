@@ -10,7 +10,7 @@ Here's my stack:
 | ----------- | ---------------- | ----------- | ----------- | ------------ |
 | **.NET/C#** | **SQL Server**   | **Angular** | **Jenkins** | Android      |
 | Laravel/PHP | MySQL/PostgreSQL | VueJS       | **AWS**     | iOS          |
-| Node/NestJS | MongoDB          | ReactJS     | **Docker**  | React Native |
+| Node/NestJS | MongoDB          | **ReactJS**     | **Docker**  | React Native |
 
 I am fluent in **English** , with intermediate proficiency in **French** and native speaker of **Portuguese**, effectively communicating with diverse stakeholders. With background in Business Management, I can excel in problem-solving, project management, software development and quality assurance. With a proven track record in developing innovative solutions, I am able to tackle new challenges and drive impactful results.
 
@@ -20,5 +20,4 @@ I am fluent in **English** , with intermediate proficiency in **French** and nat
 Let's connect and collaborate to create innovative solutions!
 
 ---
----
-Keywords: #SoftwareEngineer #FullStack #CSharp #Angular #Jenkins #AWS #Docker #Android #iOS #ReactNative #Laravel #PHP #NodeJS #NestJS #MongoDB #PostgreSQL #MySQL #SQLServer #VueJS #ReactJS #Typescript #Javascript #HTML #CSS #SASS #Bootstrap #MaterialDesign #Agile #Scrum #DevOps #CI/CD #TDD #Swagger #Linux
+Keywords: #SoftwareEngineer #FullStack #Asp.Net #DotNet #CSharp #Angular #Jenkins #AWS #Docker #Android #iOS #ReactNative #NodeJS #NestJS #MongoDB #PostgreSQL #MySQL #SQLServer #ReactJS #Typescript #Javascript #HTML #CSS #SASS #Tailwind #Bootstrap #MaterialDesign #Agile #Scrum #DevOps #CI/CD #TDD #Swagger #Linux
