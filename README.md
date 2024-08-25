@@ -21,4 +21,4 @@ Let's connect and collaborate to create innovative solutions!
 
 ---
 
-Keywords: #SoftwareEngineer #FullStack #Asp.Net #DotNet #CSharp #Angular #Jenkins #AWS #Docker #Android #iOS #ReactNative #NodeJS #NestJS #MongoDB #PostgreSQL #MySQL #SQLServer #ReactJS #Typescript #Javascript #HTML #CSS #SASS #Tailwind #Bootstrap #MaterialDesign #Agile #Scrum #DevOps #CI/CD #TDD #Swagger #Linux
+#SoftwareEngineer #FullStack #Asp.Net #DotNet #CSharp #Angular #Jenkins #AWS #Docker #Android #iOS #ReactNative #NodeJS #NestJS #MongoDB #PostgreSQL #MySQL #SQLServer #ReactJS #Typescript #Javascript #HTML #CSS #SASS #Tailwind #Bootstrap #MaterialDesign #Agile #Scrum #DevOps #CI/CD #TDD #Swagger #Linux
