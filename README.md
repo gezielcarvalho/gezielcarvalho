@@ -6,11 +6,11 @@ I'm a Senior Software Engineer experienced on FullStack Development.
 
 Here's my stack:
 
-| Backend     | Database         | Frontend    | Devops      | Mobile         |
-| ----------- | ---------------- | ----------- | ----------- | ---------------|
-| **.NET/C#** | **SQL Server**   | **Angular** | **Jenkins** | Android/WearOS |
-| Laravel/PHP | MySQL/PostgreSQL | **ReactJS** | **AWS**     | iOS            |
-| Node/NestJS | MongoDB          | VueJS       | **Docker**  | React Native   |
+| Backend     | Database         | Frontend    | Devops      | Mobile           |
+| ----------- | ---------------- | ----------- | ----------- | -----------------|
+| **.NET/C#** | **SQL Server**   | **Angular** | **Jenkins** | **React Native** |
+| Node/NestJS | MongoDB          | **ReactJS** | **AWS**     | Android/WearOS   |
+| Laravel/PHP | MySQL/PostgreSQL | VueJS       | **Docker**  | iOS              |
 
 I am fluent in **English** , with intermediate proficiency in **French** and native speaker of **Portuguese**, effectively communicating with diverse stakeholders. With background in Business Management, I can excel in problem-solving, project management, software development and quality assurance. With a proven track record in developing innovative solutions, I am able to tackle new challenges and drive impactful results.
 
