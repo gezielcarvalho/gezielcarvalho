@@ -2,7 +2,7 @@
 
 I'm a Senior Software Engineer experienced on FullStack Development.
 
-<img src="./images/csharp_icon_256.png" alt="C Sharp" width="32" height="32"><img src="./images/vuejs_icon_256.png" alt="VueJS" width="32" height="32"><img src="./images/reactjs_icon_256.png" alt="ReactJS" width="32" height="32"><img src="./images/angular_icon_256.png" alt="Angular" width="32" height="32"><img src="./images/ts_icon_256.png" alt="TypeScrip" width="32" height="32"><img src="./images/jenkins_icon_256.png" alt="SQL Server" width="32" height="32"><img src="./images/aws_icon_256.png" alt="AWS" width="32" height="32"><img src="./images/docker_icon_256.png" alt="AWS" width="32" height="32">
+<img src="./images/csharp_icon_256.png" alt="C Sharp" width="32" height="32"><img src="./images/sqlserver_icon_256.png" alt="C Sharp" width="32" height="32"><img src="./images/vuejs_icon_256.png" alt="VueJS" width="32" height="32"><img src="./images/reactjs_icon_256.png" alt="ReactJS" width="32" height="32"><img src="./images/angular_icon_256.png" alt="Angular" width="32" height="32"><img src="./images/ts_icon_256.png" alt="TypeScrip" width="32" height="32"><img src="./images/jenkins_icon_256.png" alt="SQL Server" width="32" height="32"><img src="./images/aws_icon_256.png" alt="AWS" width="32" height="32"><img src="./images/docker_icon_256.png" alt="AWS" width="32" height="32">
 
 Here's my stack:
 
